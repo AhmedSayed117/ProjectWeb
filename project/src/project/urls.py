@@ -25,7 +25,7 @@ urlpatterns = [
     path('About/', include('About.urls')),
     path('Contact/', include('Contact.urls')),
     path('Register/', include('Register.urls')),
-    path('Profile/', include('Profile.urls')),
+    #path('Profile/', include('Profile.urls')),
     path('Profile/Logout/', include('Logout.urls')),
     path('Books/', include('Book.urls')),
     path('Login/', include('Login.urls')),

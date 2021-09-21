@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     'Home.apps.HomeConfig',
     'Register.apps.RegisterConfig',
     'Logout.apps.LogoutConfig',
-    'Profile.apps.ProfileConfig',
+    #'Profile.apps.ProfileConfig',
     'Login.apps.LoginConfig',
 ]
 
